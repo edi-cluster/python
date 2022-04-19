@@ -146,3 +146,4 @@ def declination_procents(val):
     
 if __name__ == "__main__":
     main()
+    
